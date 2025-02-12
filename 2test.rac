@@ -5,7 +5,7 @@ function FindProxyForURL(url, host) {
     // Сайты, которые должны идти через прокси
     var proxySites = [
         "4pda.to",
-        "example.net"
+        "speedtest.net"
     ];
 
     // Сайты, которые должны идти напрямую
