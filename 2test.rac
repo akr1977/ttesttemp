@@ -5,12 +5,12 @@ function FindProxyForURL(url, host) {
     // Сайты, которые должны идти через прокси
     var proxySites = [
         "4pda.to",
-        "example2.net"
+        "example.net"
     ];
 
     // Сайты, которые должны идти напрямую
     var directSites = [
-        "example3.org",
+        "yandex.net",
         "example4.info"
     ];
 
